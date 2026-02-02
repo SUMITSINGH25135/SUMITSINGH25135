@@ -80,13 +80,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUMITSINGH25135&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMITSINGH25135&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitkarki188&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkarki188&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITSINGH25135&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkarki188&layout=compact&theme=radical&hide_border=true"/>
 </p>
+
 
 
 ---
