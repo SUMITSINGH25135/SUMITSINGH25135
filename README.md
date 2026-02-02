@@ -13,8 +13,19 @@
 - Solved 400+ problems on LeetCode & GFG  
 - Love clean code & scalable architecture  
 
+
 ---
 
+## 💼 What I Do
+
+- 🛠️ **Full-Stack Web Development** using **MERN / Next.js / T3 Stack**
+- ⚙️ **Backend & API Development** with **Node.js, Express, MongoDB**
+- 🎨 **Responsive UI Design** using **Tailwind CSS, HTML5, CSS3**
+- 🚀 **Code Optimization, Debugging & Performance Tuning**
+- 🧠 **Exploring System Design, AI Tools & Scalable Architecture**
+- 🔍 **Practicing Data Structures & Algorithms** regularly
+
+---
 ## 🧠 Tech Stack
 
 ### 💻 Frontend
@@ -60,18 +71,33 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
+## 🧩 Competitive Programming
 
+- 🟣 **[LeetCode][https://leetcode.com](https://leetcode.com/u/sum35408/)**
+- 🟢 **Solved 400+ DSA problems** across **LeetCode & GFG**
+
+---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUMITSINGH25135&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUMITSINGH25135&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMITSINGH25135&theme=radical&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITSINGH25135&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITSINGH25135&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
 
 ---
 
-## 🧩 Competitive Programming
+## 🤝 Let’s Connect!
 
-- LeetCode  
-- Codeforces  
-- GFG  
-- 400+ Problems Solved
+- 📧 **Email:** [sum35408@gmail.com](mailto:sum35408@gmail.com)
+- 🌐 **Portfolio:** [sumitsinghportfolio.vercel.app](https://sumit-singh-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/sumitsingh](https://www.linkedin.com/in/sumit-singh-b24295304/)
+- ---
+
+> 💡 *"Think. Build. Solve. Repeat."*  
+> Let’s create something impactful together! ✨
+
